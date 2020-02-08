@@ -5,6 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
   "/home/mwafy/source-code/data-structure/main.c" "/home/mwafy/source-code/data-structure/cmake-build-debug/CMakeFiles/data_structure.dir/main.c.o"
+  "/home/mwafy/source-code/data-structure/struct1.c" "/home/mwafy/source-code/data-structure/cmake-build-debug/CMakeFiles/data_structure.dir/struct1.c.o"
+  "/home/mwafy/source-code/data-structure/struct2.c" "/home/mwafy/source-code/data-structure/cmake-build-debug/CMakeFiles/data_structure.dir/struct2.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

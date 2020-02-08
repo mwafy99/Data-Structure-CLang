@@ -150,6 +150,60 @@ main.c.s:
 	$(MAKE) -f CMakeFiles/data_structure.dir/build.make CMakeFiles/data_structure.dir/main.c.s
 .PHONY : main.c.s
 
+struct1.o: struct1.c.o
+
+.PHONY : struct1.o
+
+# target to build an object file
+struct1.c.o:
+	$(MAKE) -f CMakeFiles/data_structure.dir/build.make CMakeFiles/data_structure.dir/struct1.c.o
+.PHONY : struct1.c.o
+
+struct1.i: struct1.c.i
+
+.PHONY : struct1.i
+
+# target to preprocess a source file
+struct1.c.i:
+	$(MAKE) -f CMakeFiles/data_structure.dir/build.make CMakeFiles/data_structure.dir/struct1.c.i
+.PHONY : struct1.c.i
+
+struct1.s: struct1.c.s
+
+.PHONY : struct1.s
+
+# target to generate assembly for a file
+struct1.c.s:
+	$(MAKE) -f CMakeFiles/data_structure.dir/build.make CMakeFiles/data_structure.dir/struct1.c.s
+.PHONY : struct1.c.s
+
+struct2.o: struct2.c.o
+
+.PHONY : struct2.o
+
+# target to build an object file
+struct2.c.o:
+	$(MAKE) -f CMakeFiles/data_structure.dir/build.make CMakeFiles/data_structure.dir/struct2.c.o
+.PHONY : struct2.c.o
+
+struct2.i: struct2.c.i
+
+.PHONY : struct2.i
+
+# target to preprocess a source file
+struct2.c.i:
+	$(MAKE) -f CMakeFiles/data_structure.dir/build.make CMakeFiles/data_structure.dir/struct2.c.i
+.PHONY : struct2.c.i
+
+struct2.s: struct2.c.s
+
+.PHONY : struct2.s
+
+# target to generate assembly for a file
+struct2.c.s:
+	$(MAKE) -f CMakeFiles/data_structure.dir/build.make CMakeFiles/data_structure.dir/struct2.c.s
+.PHONY : struct2.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +216,12 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... struct1.o"
+	@echo "... struct1.i"
+	@echo "... struct1.s"
+	@echo "... struct2.o"
+	@echo "... struct2.i"
+	@echo "... struct2.s"
 .PHONY : help
 
 
