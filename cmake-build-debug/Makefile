@@ -204,6 +204,33 @@ struct2.c.s:
 	$(MAKE) -f CMakeFiles/data_structure.dir/build.make CMakeFiles/data_structure.dir/struct2.c.s
 .PHONY : struct2.c.s
 
+struct3.o: struct3.c.o
+
+.PHONY : struct3.o
+
+# target to build an object file
+struct3.c.o:
+	$(MAKE) -f CMakeFiles/data_structure.dir/build.make CMakeFiles/data_structure.dir/struct3.c.o
+.PHONY : struct3.c.o
+
+struct3.i: struct3.c.i
+
+.PHONY : struct3.i
+
+# target to preprocess a source file
+struct3.c.i:
+	$(MAKE) -f CMakeFiles/data_structure.dir/build.make CMakeFiles/data_structure.dir/struct3.c.i
+.PHONY : struct3.c.i
+
+struct3.s: struct3.c.s
+
+.PHONY : struct3.s
+
+# target to generate assembly for a file
+struct3.c.s:
+	$(MAKE) -f CMakeFiles/data_structure.dir/build.make CMakeFiles/data_structure.dir/struct3.c.s
+.PHONY : struct3.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -222,6 +249,9 @@ help:
 	@echo "... struct2.o"
 	@echo "... struct2.i"
 	@echo "... struct2.s"
+	@echo "... struct3.o"
+	@echo "... struct3.i"
+	@echo "... struct3.s"
 .PHONY : help
 
 
