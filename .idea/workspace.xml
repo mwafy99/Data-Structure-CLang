@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="415c238e-7fc7-43d6-8481-078209ab145c" name="Default Changelist" comment="" />
+    <list default="true" id="415c238e-7fc7-43d6-8481-078209ab145c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,13 @@
     <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1XVCf1buirU3VWHfJ1xAtUsb2dR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -58,10 +66,33 @@
       <updated>1581121974619</updated>
       <workItem from="1581121977958" duration="713000" />
       <workItem from="1581171183542" duration="5465000" />
+      <workItem from="1581182816384" duration="283000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="705" y="346" width="499" height="422" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581183115493">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="705" y="346" width="499" height="422" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1581183115493" />
+    <state width="1878" height="254" key="GridCell.Tab.0.bottom" timestamp="1581183039298">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="254" key="GridCell.Tab.0.bottom/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1581183039298" />
+    <state width="1878" height="254" key="GridCell.Tab.0.center" timestamp="1581183039298">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="254" key="GridCell.Tab.0.center/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1581183039298" />
+    <state width="1878" height="254" key="GridCell.Tab.0.left" timestamp="1581183039298">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="254" key="GridCell.Tab.0.left/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1581183039298" />
+    <state width="1878" height="254" key="GridCell.Tab.0.right" timestamp="1581183039298">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1878" height="254" key="GridCell.Tab.0.right/0.27.1920.1053/1920.0.1920.1080@0.27.1920.1053" timestamp="1581183039298" />
   </component>
 </project>
