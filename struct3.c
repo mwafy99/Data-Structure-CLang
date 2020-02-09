@@ -32,7 +32,7 @@ int main(void)
         // allocate space for number
         node *n = malloc(sizeof(node));
 
-        // check for memory allocating failure
+        // check for memory allocating failure [equal to n == NULL ]
         if (!n)
         {
             // quit from program and return 1
@@ -40,14 +40,16 @@ int main(void)
         }
 
         // adding user input to the list
-        n->number = USER_INPUT;
-        n->next = NULL;
+        n->number = USER_INPUT;     // -> like (*n).number
+        n->next = NULL;             // -> like (*n).next
 
         // looping through the linked list
         if (list != NULL)
         {
+            // make a tmp pointer to list
             for (node *tmp = list; tmp != NULL; tmp = tmp->next)
             {
+                // if the next didn't point to anything - update it
                 if (tmp->next == NULL)
                 {
                     // if the next address is null assign the new address
