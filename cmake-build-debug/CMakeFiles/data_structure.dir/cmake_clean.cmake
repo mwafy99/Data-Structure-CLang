@@ -3,6 +3,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/data_structure.dir/struct1.c.o"
   "CMakeFiles/data_structure.dir/struct2.c.o"
   "CMakeFiles/data_structure.dir/struct3.c.o"
+  "CMakeFiles/data_structure.dir/struct4.c.o"
   "data_structure"
   "data_structure.pdb"
 )

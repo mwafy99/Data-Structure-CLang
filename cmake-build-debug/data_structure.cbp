@@ -90,6 +90,9 @@
 		<Unit filename="/home/mwafy/source-code/data-structure/struct3.c">
 			<Option target="data_structure"/>
 		</Unit>
+		<Unit filename="/home/mwafy/source-code/data-structure/struct4.c">
+			<Option target="data_structure"/>
+		</Unit>
 		<Unit filename="/home/mwafy/source-code/data-structure/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

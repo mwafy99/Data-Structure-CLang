@@ -8,6 +8,7 @@ set(CMAKE_DEPENDS_CHECK_C
   "/home/mwafy/source-code/data-structure/struct1.c" "/home/mwafy/source-code/data-structure/cmake-build-debug/CMakeFiles/data_structure.dir/struct1.c.o"
   "/home/mwafy/source-code/data-structure/struct2.c" "/home/mwafy/source-code/data-structure/cmake-build-debug/CMakeFiles/data_structure.dir/struct2.c.o"
   "/home/mwafy/source-code/data-structure/struct3.c" "/home/mwafy/source-code/data-structure/cmake-build-debug/CMakeFiles/data_structure.dir/struct3.c.o"
+  "/home/mwafy/source-code/data-structure/struct4.c" "/home/mwafy/source-code/data-structure/cmake-build-debug/CMakeFiles/data_structure.dir/struct4.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
